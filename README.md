@@ -9,6 +9,6 @@ The present project has the main purpose of describing the Data Science Jobs/Sal
 
 ## Jupyter Notebook 👇
 
-[NOtebook](datapython.ipynb)
+[Notebook](datapython.ipynb)
 
 ### Thank you
