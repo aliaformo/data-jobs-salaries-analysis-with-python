@@ -1,7 +1,7 @@
 
 # Data jobs and salaries. Analysis with Python
 
-The present project has the main purpose of describing the Data Science Jobs/Salaries in the last years based on the dataset
+The present project has the main purpose of describing the Data Science Jobs/Salaries in the last two years (2020-2022) based on the dataset
 
 ## Dataset 👇
 
